@@ -27,7 +27,7 @@ In this tutorial, we'll walk through the process of building a secure authentica
 -This is how the dashboard shows up after you fill in the information correctly.
 ##**LOG OUT**
 </br>
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36jv5f0cdd3gvy6fnn3y.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36jv5f0cdd3gvy6fnn3y.png) </br>
 -This code destroys the session when we click on Logout from the dashboard .We can log out like in the picture below
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2py3iq6y5s0avg0tk7zb.png)
 </br>
