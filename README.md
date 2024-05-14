@@ -1,12 +1,11 @@
-# Hackathon 
+# Hackathon en php
+
 ##**INTRODUCTION**
 
 In this tutorial, we'll walk through the process of building a secure authentication system using PHP. Authentication is a critical aspect of web applications, ensuring that only authorized users have access to protected resources. By following best practices and implementing security measures, we can create a robust authentication system that protects user accounts and sensitive data from unauthorized access.
 ##**CREATING A DATABASE AND TABLE**
 -In these codes below us we're going to show you how to create a database by PDO and a table in our database.
-    <img src="![code1](https://github.com/AkramBl1/Hackathon/assets/155922765/ac8cdbc7-e6df-4c21-80d0-b2fd025ef7a4)
-" >
--Now we're going to show you how it this code works.
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tafw24zc5op9jj81xcb.png)![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sblctb7rnrfynptnyc7u.png)-Now we're going to show you how it this code works.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wiv394qtg0qwkhou83uo.PNG)
 ##**SIGN UP FORUM**
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0werktaxmy8xi59aaaz0.png)-In this code we check if the form is submitted by this function ($_SERVER["REQUEST_METHOD"] == "POST").Then it validates input fields (name, email, password, confirm_password) for emptiness and sanitizes them.Also it ensures if the password matches the confirm password and hashes the password using password_hash().It checks if the email already exists in the database and displays an error message if it does.If all validations pass, it inserts the user's details into the database and redirects to the login page.![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3bap15xmbp3vco8qwvt.PNG)-This is how the sign up form shows up.
