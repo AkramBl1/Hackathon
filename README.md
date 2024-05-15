@@ -1,12 +1,14 @@
 # Hackathon en php
 
-**INTRODUCTION**
+# INTRODUCTION
+- In this tutorial, we'll walk through the process of building a secure authentication system using PHP. Authentication is a critical aspect of web applications, ensuring that only authorized users have access to protected resources. By following best practices and implementing security measures, we can create a robust authentication system that protects user accounts and sensitive data from unauthorized access.
 
-In this tutorial, we'll walk through the process of building a secure authentication system using PHP. Authentication is a critical aspect of web applications, ensuring that only authorized users have access to protected resources. By following best practices and implementing security measures, we can create a robust authentication system that protects user accounts and sensitive data from unauthorized access.
-</br>
-**CREATING A DATABASE AND TABLE**
--In these codes below us we're going to show you how to create a database by PDO and a table in our database.
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tafw24zc5op9jj81xcb.png)![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sblctb7rnrfynptnyc7u.png) </br>
+# CREATING A DATABASE AND TABLE
+- In these codes below us we're going to show you how to create a database by PDO and a table in our database.
+
+<p align="center"> 
+   <img src='![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tafw24zc5op9jj81xcb.png)![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sblctb7rnrfynptnyc7u.png)' width='410'> 
+</p>
 -Now we're going to show you how it this code works.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wiv394qtg0qwkhou83uo.PNG) </br>
 </br>
